@@ -5,10 +5,14 @@ const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
 
+colorCopy = faveColors.slice(0,2)
+
+
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
+colorCopy.push("blue")
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -19,6 +23,13 @@ const faveColors = ['red', 'green', 'black']
 const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
+let middleNums = (numbers)
+  let middleNums = [1,2,3]
+  console.log(middleNums)
+
+
+
+
 
 
 //////////////////PROBLEM 4////////////////////

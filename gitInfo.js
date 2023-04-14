@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = ("A version control system that tracks changes to any set of files")
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,7 +19,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = ("Cloud based hosting platfrom used for collaboration and version control")
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +27,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = ("Git init is the first command used to create a new blank repository.")
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +36,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = ("Git Clone is a command line used to target an existing repository and make a copy of the repository")
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +45,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = ("Git Status displays the working directory and the staging area.")
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,7 +57,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = ("Git Add is teh first command in a chain of operations that gets Git to save a snapshot of the current project and and commit history")
 
+let gitAddCode = ("git add file")
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +70,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = ("Git Commit adds the core project to be added to Git Hub.")
 
-
+let gitCommitCode = ('git comit -m "name of project comment')
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +80,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = ("Git push is used to upload local repository content to a remote repository like Git Hub.")
